@@ -14,6 +14,8 @@ Commit your code regularly and meaningfully. This helps both you and your team l
 
 In this project, you build an app that displays a scoreboard for an American football game. There will be two buttons for each team - one will increment that team's score by three points (for a "field goal") and the other will increment that team's score by seven points (for a "touchdown" and "extra point"). The css is already done for you. You should focus your efforts on the functionality of the app.
 
+
+
 ## Project Set Up
 
 - [ ] Create a forked copy of this project.
@@ -67,6 +69,8 @@ const [value, setValue] = useState(); // Give these better names, and decide whe
 ## Stretch Problems
 
 After finishing your required elements, you can push your work further. These goals may or may not be things you have learned in this module but they build on the material you just studied. Time allowing, stretch your limits and see if you can deliver on any the following optional goals:
+
+weee
 
 ### Stretch Goal 1
 
